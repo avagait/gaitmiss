@@ -3,7 +3,7 @@
 Paper accepted for publication at [ICIP'2021](https://2021.ieeeicip.org/): [**read the preprint here**](http://www.uco.es/~in1majim/publications/gaitmiss_ICIP2021_draft.pdf).
 
 __Code__: coming soon!  
-Although you can start playing with the Google Colab notebooks available here: [https://github.com/avagait/gaitutils]()
+Although you can start playing with the Google Colab notebooks available here: [https://github.com/avagait/gaitutils](https://github.com/avagait/gaitutils)
 
 ## Abstract
 Multimodal systems for gait recognition have gained a lot of attention. However, there is a clear gap in the study of missing modalities, which represents real-life scenarios where sensors fail or data get corrupted. Here, we investigate how to handle missing modalities for gait recognition. We propose a single and flexible framework that uses a variable number of input modalities. For each modality, it consists of a branch and a binary unit indicating whether the modality is available; these are gated and merged together. Finally, it generates a single and compact ‘multimodal’ gait signature that encodes biometric information of the input. Our framework outperforms the state of the art on TUM-GAID and extensive experiments reveal its effectiveness for handling missing modalities even in the multiview setup of CASIA-B. 
